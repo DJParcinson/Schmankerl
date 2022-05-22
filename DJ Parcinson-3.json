@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "name": "DJ Parcinson",
+    "data": [
+        {
+            "description": "",
+            "hash": 294129361,
+            "name": "DJ Parcinson's Schmankerl",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    1428297954
+                ],
+                [
+                    4082225868,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        }
+    ]
+}
